@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <title>Analisis Frekuensi Curah Hujan</title>
+  <link rel="icon" type="img/jpg" href="img/g.png">
+  <meta name="description" content="Website analisis frekuensi curah hujan ini dibuat untuk mempermudah perhitungan."/>
+  <!-- Tell the browser to be responsive to screen width -->
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <!-- Font Awesome -->
+  <link rel="stylesheet" href="core/plugins/fontawesome-free/css/all.min.css">
+  <!-- Ionicons -->
+  <link rel="stylesheet" href="https://code.ionicframework.com/ionicons/2.0.1/css/ionicons.min.css">
+  <!-- Theme style -->
+  <link rel="stylesheet" href="core/dist/css/adminlte.min.css">
+  <!-- Google Font: Source Sans Pro -->
+  <link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,400i,700" rel="stylesheet">
+
+  <!-- Custom fonts for this template -->
+  <link href="vendor/fontawesome-free/css/all.min.css" rel="stylesheet" type="text/css">
+  <link href="https://fonts.googleapis.com/css?family=Nunito:200,200i,300,300i,400,400i,600,600i,700,700i,800,800i,900,900i" rel="stylesheet">
+
+<!-- Custom styles for this template -->
+<link href="css/sb-admin-2.min.css" rel="stylesheet">
+
+<!-- Custom styles for this page -->
+<link href="vendor/datatables/dataTables.bootstrap4.min.css" rel="stylesheet">
+
+</head>
+<body class="hold-transition lockscreen">
+
+<!-- Automatic element centering -->
+<div class="lockscreen-wrapper">
+  <div class="lockscreen-logo">
+    <p><b>Website Analisis Frekuensi Curah Hujan</b></p>
+  </div>
+  <!-- User name -->
+  <div class="lockscreen-name"></div>
+
+  <!-- START LOCK SCREEN ITEM -->
+  
+  <!-- /.lockscreen-item -->
+  <div class="help-block text-center">
+    Klik start untuk mulai!
+  </div>
+  <p></p>
+  <div class="text-center">
+  <a href="form-data.php" class="btn btn-primary btn-icon-split">
+      <span class="icon text-white-50">
+         <i class="fas fa-flag"></i>
+     </span>           
+    <span class="text">Start</span>                 
+  </a>
+  </div>
+  
+ 
+</div>
+<!-- /.center -->
+
+
+<!-- jQuery -->
+<script src="core/plugins/jquery/jquery.min.js"></script>
+<!-- Bootstrap 4 -->
+<script src="core/plugins/bootstrap/js/bootstrap.bundle.min.js"></script>
+</body>
+</html>
